@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋🏼
+I'm marcoxskii, a Computer Science student from 🇪🇨.
+
+## 🚀
+- currently studying at Universidad Politécnica Salesiana, Cuenca.
+
 
 <!--
 **marcoxskii/marcoxskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
